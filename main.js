@@ -1,33 +1,42 @@
 let joke = [
-  `What falls, but never needs a bandage? The rain.`,
+  `What falls, but never needs a bandage? 
+  The rain.`,
 
   `I was going to tell you a joke about boxing but I forgot the punch line.`,
 
   `I'm not a fan of spring cleaning. Let's be honest, I'm not into summer, fall, or winter cleaning either.`,
 
-  `Why did the egg hide? It was a little chicken.`,
+  `Why did the egg hide?
+  It was a little chicken.`,
 
-  `What did the dirt say to the rain? If you keep this up, my name will be mud!`,
+  `What did the dirt say to the rain? If you keep this up,
+  my name will be mud!`,
 
-  `Why couldn't the sunflower ride its bike? It lost its petals.`,
+  `Why couldn't the sunflower ride its bike?
+  It lost its petals.`,
 
-  `What's an egg's favorite vacation spot? New Yolk City.`,
+  `What's an egg's favorite vacation spot?
+  New Yolk City.`,
 
   `I ate a sock yesterday. It was very time-consuming.`,
 
-  `What kind of candy do astronauts like? Mars bars.`,
+  `What kind of candy do astronauts like?
+  Mars bars.`,
 
   `I wanted to buy some camo pants but couldn't find any.`,
 
   `I ordered a chicken and an egg from Amazon. I'll let you know.`,
 
-  `What month is the shortest of the year? May, it only has three letters.`,
+  `What month is the shortest of the year?
+  May, it only has three letters.`,
 
-  `What did the snail who was riding on the turtle's back say? Wheeeee!`,
+  `What did the snail who was riding on the turtle's back say?
+  Wheeeee!`,
 
   `I was going to tell a time traveling joke, but you guys didn't like it.`,
 
-  `What do you call a lazy kangaroo? A pouch potato.`,
+  `What do you call a lazy kangaroo?
+  A pouch potato.`,
 
   `I used to run a dating service for chickens, but I was struggling to make hens meet.`,
 
